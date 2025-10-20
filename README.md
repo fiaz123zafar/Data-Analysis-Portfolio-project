@@ -108,7 +108,7 @@ Each project includes comprehensive dashboards with multiple charts:
 
 - **Email:** fz.opsecengineer@gmail.com
 - **LinkedIn:** (https://linkedin.com/in/fiaz-zafar-0b66a0258)
-- **Portfolio:** 
+- **Portfolio:**(https://fiaz123zafar.github.io/data-analysis-portfolio)
 
 ## 📄 License
 
