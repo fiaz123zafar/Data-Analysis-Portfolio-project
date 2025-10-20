@@ -91,7 +91,7 @@ Each project includes comprehensive dashboards with multiple charts:
 
 1. Clone this repository:
 ```bash
-   git clone https://github.com/YOUR-USERNAME/data-analysis-portfolio.git
+   git clone https://github.com/fiaz123zafar/data-analysis-portfolio.git
 ```
 
 2. Install required packages:
